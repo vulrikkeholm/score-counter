@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background: #1B244A;
+    color: white;
+      
+}
+h3 {
+    font-size: 40px;
+}
+.score {
+    background-color: black;
+    height: 120px;
+    width: 155px;
+    font-size: 90px;
+    color: red;
+       display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.sojle {
+    display: flex;
+    flex-direction: column;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
